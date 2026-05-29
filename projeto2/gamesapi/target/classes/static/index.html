@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>Games CRUD</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>Cadastro de Jogos</h1>
+
+<div class="form">
+    <input type="text" id="name" placeholder="Nome">
+    <input type="text" id="genre" placeholder="Gênero">
+    <input type="text" id="platform" placeholder="Plataforma">
+    <input type="number" id="year" placeholder="Ano">
+
+    <button onclick="addGame()">Adicionar</button>
+    <button onclick="updateGame()">Atualizar</button>
+</div>
+
+<table>
+    <thead>
+    <tr>
+        <th>ID</th>
+        <th>Nome</th>
+        <th>Gênero</th>
+        <th>Plataforma</th>
+        <th>Ano</th>
+        <th>Ações</th>
+    </tr>
+    </thead>
+    <tbody id="table-body"></tbody>
+</table>
+
+<script src="script.js"></script>
+</body>
+</html>

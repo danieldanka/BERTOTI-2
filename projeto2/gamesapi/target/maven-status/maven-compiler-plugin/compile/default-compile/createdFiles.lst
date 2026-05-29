@@ -1,0 +1,6 @@
+org\example\ui\GameUI.class
+org\example\GameController.class
+org\example\Game.class
+org\example\GameRepository.class
+org\example\GamesApiApplication.class
+org\example\ui\GameService.class
