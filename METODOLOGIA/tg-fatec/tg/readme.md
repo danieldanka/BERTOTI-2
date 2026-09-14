@@ -14,11 +14,13 @@ Já trabalhei como Suporte Técnico na escola SEPP, uma escola particular de Ens
 ### Minhas Hard Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-## Meus Projetos
+<br/>
+<br/>
 
-Meus Projetos
-Empresa Parceira: IPEM-SP (Instituto de Pesos e Medidas do Estado de São Paulo)
+# Meus Projetos
+
+## 3ºSemestre
+### Empresa Parceira: IPEM-SP (Instituto de Pesos e Medidas do Estado de São Paulo)
 
 Problema:
 O problema do projeto era criar um sistema unificado para modernizar a gestão de frotas e chamados de serviço do IPEM-SP (SIVA / Bifrost Connect). O instituto precisava de controle eficiente sobre os registros de viagens, quilometragem, solicitações de manutenção e aprovações do uso de veículos oficiais. Precisava ter controle de usuários, perfis, regras de permissão e fluxo de atribuição de veículos. O desafio era juntar tudo isso num sistema fácil de usar e que atendesse todos esses requisitos.
@@ -63,3 +65,53 @@ Liderança e Visão de Produto: Exercitei a capacidade de priorizar entregas de 
 Comunicação e Alinhamento: Mantive um diálogo constante com as partes interessadas para traduzir necessidades institucionais em requisitos técnicos claros para os desenvolvedores.
 
 Negociação e Tomada de Decisão: Atuei na gestão de expectativas, definindo escopo e resolvendo ambiguidades sobre o funcionamento do sistema sob restrições de tempo e recursos.
+
+<br/>
+
+
+## 2º Semestre
+### Empresa Parceira / Cliente: FATEC (Coordenação de Cursos / Sistema Interno)
+
+Problema:
+O problema do projeto consistia na dificuldade de acompanhar e centralizar o fluxo de entrega dos Trabalhos de Graduação (TG) por parte dos alunos, orientadores e coordenação. O processo manual gerava desalinhamento de prazos, falta de visibilidade sobre o status de cada trabalho (relatórios, documentações e bancas) e sobrecarga na gestão das submissões. O desafio era criar uma plataforma acessível e organizada que centralizasse as entregas, permitisse o upload e versionamento dos documentos e oferecesse controle de prazos e feedbacks aos envolvidos.
+
+Solução Entregue pela Equipe:
+A equipe desenvolveu uma aplicação dedicada à gestão e acompanhamento das entregas de TG. A plataforma permitiu aos estudantes enviar relatórios e arquivos dentro dos cronogramas estabelecidos, consultar feedbacks e acompanhar o status de aprovação. Para os orientadores e coordenação, o sistema disponibilizou painéis de controle para revisão de documentos, validação de critérios de entrega e acompanhamento do progresso dos alunos ao longo do semestre.
+
+Repositório do Projeto:
+
+![SAMBOLD](https://github.com/danieldanka/API-2025-2SEM.git)
+
+TTecnologias Utilizadas:
+
+JavaScript: Utilizado para manipulação dinâmica do DOM, validação de dados no cliente e controle de eventos e comportamentos da interface.
+
+CSS: Utilizado para a estilização visual completa da aplicação, definição de layout, responsividade e padronização da identidade visual.
+
+Figma: Utilizado na concepção do design e prototipagem das telas antes do desenvolvimento.
+
+Git e GitHub: Ferramentas essenciais para o versionamento de código, controle de branches e integração do time.
+
+Contribuições Pessoais:
+
+Desenvolvimento Front-end com JavaScript: Atuei diretamente na implementação do dinamismo das páginas, tratamento de eventos do usuário e manipulação de elementos da interface.
+
+Estilização e Layout com CSS: Fui responsável pela criação das folhas de estilo, garantindo harmonia visual, tipografia consistente e uma experiência agradável de navegação para alunos e professores.
+
+Validação de Formulários e Fluxo de Entrega: Desenvolvi lógicas em JavaScript para validar os campos antes da submissão (como verificação de arquivos e preenchimento de metadados do TG), reduzindo erros de envio.
+
+Hard Skills:
+
+JavaScript: Sei fazer com autonomia
+
+CSS: Sei fazer com autonomia
+
+Versionamento com Git/GitHub: Sei fazer com autonomia
+
+Soft Skills:
+
+Atenção aos Detalhes: Cuidei da fidelidade das telas e da consistência visual com CSS para entregar uma experiência clara e intuitiva aos usuários.
+
+Trabalho em Equipe: Colaborei ativamente com o restante da equipe para alinhar os contratos de envio de dados e garantir que a interface consumisse as rotas corretamente.
+
+Resolução de Problemas: Atuei no diagnóstico e correção de comportamentos inesperados de scripts e inconsistências de layout durante as sprints.
